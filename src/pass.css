@@ -1,0 +1,21 @@
+input[type='text']{
+    height: 30px;
+ 
+  background-color: rgb(0, 0, 0,0);
+  text-align: center;
+color: black;
+font-size: large;
+font-weight: bold;
+cursor:auto;
+}
+button{
+    height: 40px;
+width: 90px;;
+}
+
+input[type='range']{
+    accent-color: rgb(66, 70, 51,0.7);
+}
+input[type='checkbox']{
+    accent-color: rgb(66, 70, 51,0.7);
+}
